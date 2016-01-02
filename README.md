@@ -25,3 +25,6 @@ bangular에 대한 것은 https://github.com/42Zavattas/generator-bangular 이 �
 Dependency의 추가시에는 `--save`, 개발환경에서만 필요한 Dependency라면 `--save-dev` 옵션을 추가해주세요.
 
 ex) `npm install async --save`, `npm install jasmine-core --save-dev`
+
+## Launch
+`gulp`
