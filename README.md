@@ -18,7 +18,7 @@ bangular에 대한 것은 https://github.com/42Zavattas/generator-bangular 이 �
 
 ## Initializing
 ### git clone
-`git@github.com:JsonEditor/JsonEditor.git`
+`git clone git@github.com:JsonEditor/JsonEditor.git`
 ### install node modules
 `npm install -d`
 ## Add Dependency
