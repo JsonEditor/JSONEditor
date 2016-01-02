@@ -21,6 +21,8 @@ bangular에 대한 것은 https://github.com/42Zavattas/generator-bangular 이 �
 `git clone git@github.com:JsonEditor/JsonEditor.git`
 ### install node modules
 `npm install -d`
+### bower install
+`bower install`
 ## Add Dependency
 Dependency의 추가시에는 `--save`, 개발환경에서만 필요한 Dependency라면 `--save-dev` 옵션을 추가해주세요.
 
