@@ -20,7 +20,6 @@ bangular에 대한 것은 https://github.com/42Zavattas/generator-bangular 이 �
 ### git clone
 `git clone git@github.com:JsonEditor/JsonEditor.git`
 ### install node modules
-clone 받은 JsonEditor 폴더로 이동합니다. \\
 `npm install -d`
 ### bower install
 `bower install`
